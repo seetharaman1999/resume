@@ -148,7 +148,7 @@ p {
   background: #da222b;
 }
 .progress-bar-4 {
-  background: #45082b;
+  background: #88882b;
 }
 .progress-bar-5 {
   background: #78092b;
@@ -161,6 +161,9 @@ p {
 }
 .progress-bar-8 {
   background: #00452b;
+}
+.progress-bar-9 {
+  background: #11772b;
 }
 
 /* ==========================================================
